@@ -1,0 +1,13 @@
+img {
+    width: 150px;
+    height: 150px;
+    border:1px;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 2fr;
+    grid-template-rows: 0fr;
+}
